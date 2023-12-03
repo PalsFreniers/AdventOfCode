@@ -5,4 +5,5 @@
 
 ## Table of content
 
-[Exercice 1](subjects/1.md)
+[Exercise 1](subjects/1.md) \\
+[Exercise 2](subjects/2.md)
