@@ -7,3 +7,4 @@
 
 - [Exercise 1](subjects/1.md)
 - [Exercise 2](subjects/2.md)
+- [Exercice 3](subjects/3.md)
