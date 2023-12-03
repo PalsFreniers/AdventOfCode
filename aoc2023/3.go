@@ -207,7 +207,7 @@ func ft_strmap(strs []string) []int {
 }
 
 func e3part1() int {
-        f, err := os.Open("3.input")
+        f, err := os.Open("inputs/3.input")
         check(err)
         defer f.Close()
         
@@ -257,7 +257,7 @@ func e3part1() int {
 }
 
 func e3part2() int {
-        f, err := os.Open("3.input")
+        f, err := os.Open("inputs/3.input")
         check(err)
         defer f.Close()
         

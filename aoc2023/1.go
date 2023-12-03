@@ -7,7 +7,7 @@ import (
 )
 
 func e1part1() int {
-        f, err := os.Open("1.input")
+        f, err := os.Open("inputs/1.input")
         check(err)
         defer f.Close()
 
@@ -41,7 +41,7 @@ func e1part1() int {
 }
 
 func e1part2() int {
-        f, err := os.Open("1.input")
+        f, err := os.Open("inputs/1.input")
         check(err)
         defer f.Close()
 
