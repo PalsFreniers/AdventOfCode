@@ -1,7 +1,7 @@
 
 # Advent of code 2023
 
-*language used* `golang`
+*language used* : `golang`
 
 ## Table of content
 
